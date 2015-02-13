@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "a0a16fc1693be4e1e06e180ee6bf052f",
+    "packages": [
+        {
+            "name": "elliotchance/xsd2php",
+            "version": "v0.0.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/elliotchance/XSD2PHP.git",
+                "reference": "6c57cfa40f6bf1f757b2866c42545ad4edb22b05"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/elliotchance/XSD2PHP/zipball/6c57cfa40f6bf1f757b2866c42545ad4edb22b05",
+                "reference": "6c57cfa40f6bf1f757b2866c42545ad4edb22b05",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Mike Bevz",
+                    "email": "myb@mikebevz.com",
+                    "homepage": "http://mikebevz.com",
+                    "role": "Lead Developer"
+                }
+            ],
+            "description": "LegkoXML (XSD2PHP) support",
+            "time": "2015-02-13 02:58:44"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
